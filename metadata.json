@@ -1,10 +1,17 @@
 {
-	"name":"wawi",
-	"version":"git",
-	"deps":[],
-	"tables":[
-		"wawi_articles",
-		"wawi_barcodes",
-		"wawi_prices"
-	]	
+  "name":"wawi",
+  "version":"git",
+  "deps":[
+    
+  ],
+  "tables":[
+    "wawi_articles",
+    "wawi_barcodes",
+    "wawi_prices"
+  ],
+  "tableRevs":{
+    "wawi_articles":0,
+    "wawi_barcodes":0,
+    "wawi_prices":0
+  }
 }
