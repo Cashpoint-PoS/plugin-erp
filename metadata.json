@@ -1,0 +1,10 @@
+{
+	"name":"wawi",
+	"version":"git",
+	"deps":[],
+	"tables":[
+		"wawi_articles",
+		"wawi_barcodes",
+		"wawi_prices"
+	]	
+}
